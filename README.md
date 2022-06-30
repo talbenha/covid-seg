@@ -159,3 +159,6 @@ Set the path for the trained models' checkpoints used from the ensemble, load th
 **--save_output**
 
 Set the path for the output directory, save model prediction in the hierarchy of the test data path.
+
+## _Additional Annotations_
+The additional annotations from the paper are provided under the tags of this repository
