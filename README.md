@@ -1,4 +1,4 @@
-# Multi-label Lung CT Segmentation of COVID-19 patients and Segmentation Uncertainty via An Ensemble of Deep Hierarchical Models
+# A Deep Ensemble Learning Approach to Lung CT Segmentation for COVID-19 Severity Assessment
 
 ## _Training_
 ```sh
