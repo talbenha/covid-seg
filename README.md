@@ -161,4 +161,4 @@ Set the path for the trained models' checkpoints used from the ensemble, load th
 Set the path for the output directory, save model prediction in the hierarchy of the test data path.
 
 ## _Additional Annotations_
-The additional annotations from the paper are provided under the tags of this repository
+The additional annotations from the paper are provided under the tags of this repository - https://github.com/talbenha/covid-seg/tags
