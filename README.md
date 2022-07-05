@@ -166,9 +166,9 @@ The SUMC data and additional annotations from the paper are provided under the t
 ## _Citation_
 If you find either the code or the data useful for your research, cite our paper:
 ```sh
-@inproceedings{,
+@inproceedings{benhaim2022covidseg,
 title={A Deep Ensemble Learning Approach to Lung CT Segmentation for COVID-19 Severity Assessment},
-author={Tal Ben-Haim and Ron Moshe Sofer and Gal Ben-Arie and Ilan Shelef and Tammy Riklin Raviv$^{1}$},
+author={Tal Ben-Haim and Ron Moshe Sofer and Gal Ben-Arie and Ilan Shelef and Tammy Riklin Raviv},
 booktitle={IEEE International Conference on Image Processing (ICIP) 2022},
 year={2022}
 }
