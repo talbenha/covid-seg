@@ -162,3 +162,14 @@ Set the path for the output directory, save model prediction in the hierarchy of
 
 ## _SUMC Data & Additional Annotations_
 The SUMC data and additional annotations from the paper are provided under the tags of this repository - [Data](https://github.com/talbenha/covid-seg/releases/tag/additional-annotations)
+
+## _Citation_
+If you find either the code or the data useful for your research, cite our paper:
+```sh
+@inproceedings{,
+title={A Deep Ensemble Learning Approach to Lung CT Segmentation for COVID-19 Severity Assessment},
+author={Tal Ben-Haim and Ron Moshe Sofer and Gal Ben-Arie and Ilan Shelef and Tammy Riklin Raviv$^{1}$},
+booktitle={IEEE International Conference on Image Processing (ICIP) 2022},
+year={2022}
+}
+```
